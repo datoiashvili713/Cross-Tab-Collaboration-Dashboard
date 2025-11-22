@@ -1,0 +1,17 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+.env
+.env.local
+
+# Editor files
+.cursorrules
+.cursorignore
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# Test coverage
+coverage
